@@ -1,0 +1,48 @@
+Conditional Private Use License (CPL) - Version 1.0  
+Copyright (c) 2021 MHg2NjYxZEY2MTAwNTNhQ0E4RGQ3MDU4ODY5MTExZTA3QjVmYUIwMThE
+
+1. DEFINITION OF SCOPE
+
+This License applies to all local files that are part of the system, unless explicitly exported to an authorized platform such as GitHub by the repository account administrator.
+
+2. LOCAL USE RESTRICTION
+
+All files stored locally are restricted to:
+
+- Internal use, read-only;
+- No permission to modify, copy, or synchronize with cloud services;
+- No right to redistribute in whole or in part;
+- No right to execute or alter them without administrator approval.
+
+3. EXPORT CONDITION
+
+The only exception to the above restriction is when the file:
+
+- Is manually and explicitly exported by the authorized administrator to a GitHub repository;  
+- And said file is published under a recognized license such as Apache 2.0, MIT, or another, which must be included in the destination repository.
+
+Once exported, the file may be used, modified, and redistributed in accordance with the open source license assigned to the repository.
+
+4. ACCOUNT ADMINISTRATOR
+
+Only the designated GitHub repository administrator account holder can modify usage permissions, enable write access, or manage file exports.
+
+5. SECURITY AND ACCESS CONTROL
+
+It is recommended that any system licensed under this license have control mechanisms that:
+
+- Block automatic synchronization with services such as Google Drive, Dropbox, or iCloud;
+- Maintain local logs of modification attempts;
+- Restrict permission changes using strong authentication systems.
+
+6. DISCLAIMER OF WARRANTIES
+
+This software or set of files is distributed "AS IS" without warranties of any kind, either express or implied. The licensee is not liable for damages arising from unauthorized use or modification of restricted files.
+
+7. TERMINATION
+
+Any violation of this License, including unauthorized synchronization or modification of local files without authorized export, will immediately terminate the right to use the system.
+
+---
+
+NOTE: This License may coexist with other licenses such as Apache 2.0, applying only to local environments and synchronization conditions until the file is exported as described.
