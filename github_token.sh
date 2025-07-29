@@ -25,7 +25,7 @@ curl -X PUT \
   -H "Authorization: token $GITHUB_TOKEN" \
   -H "User-Agent: $USER_AGENT" \
   -H "Accept: application/vnd.github.v3+json" \
-  https://api.github.com/repos/$REPO/contents/$N01646655682540242944072954 \
+  https://api.github.com/repos/$REPO/contents/$NOMBRE_ARCHIVO_EN_REPO \
   -d @payload.json
 exit
 ```
